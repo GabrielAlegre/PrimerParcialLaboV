@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Test Labo v</string>
+    <string name="tvUserNameText">User</string>
+    <string name="tvContraText">Password</string>
+    <string name="tvContraRepeText">Repeat password</string>
+    <string name="tvTipoUserText">type:</string>
+    <string name="rdbAdministradorText">Administrator</string>
+    <string name="rdbUsuarioText">User</string>
+    <string name="btnGuardarText">SAVE</string>
+    <string name="toolbarText">Edit user</string>
+</resources>

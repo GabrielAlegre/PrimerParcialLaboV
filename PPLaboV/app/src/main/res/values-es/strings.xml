@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primer Parcial Labo v</string>
+    <string name="tvUserNameText">Usuario</string>
+    <string name="tvContraText">Contraseña</string>
+    <string name="tvContraRepeText">Repita la contraseña</string>
+    <string name="tvTipoUserText">Tipo: </string>
+    <string name="rdbAdministradorText">Administrador</string>
+    <string name="rdbUsuarioText">Usuario</string>
+    <string name="btnGuardarText">GUARDAR</string>
+    <string name="toolbarText">Editar usuario</string>
+</resources>
